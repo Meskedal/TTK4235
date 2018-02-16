@@ -1,2 +1,2 @@
-# ElevatorProject
-Elevator project in C coding language for the subject "Embedded systems".
+# TTK4235- Elevator Project
+Main part of this course was designing a embedded system to operate a single elevator.
