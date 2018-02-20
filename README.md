@@ -1,2 +1,2 @@
 # TTK4235- Elevator Project
-Main part of this course was designing a embedded system to operate a single elevator.
+Main part of this course was designing software that operates a single elevator.
